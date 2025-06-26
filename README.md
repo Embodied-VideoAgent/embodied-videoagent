@@ -3,8 +3,8 @@
 We are actively preparing the codebase for public release.
 
 
-| Component                       | Status         | Notes                                 | Estimated Completion |
-| ----------------------------------------------| ---------------| -------------------------------------| -------------------- |
-| Embodied VideoAgent for perception            | 🟡 In Progress | Cleanup and refactoring underway      | June 2025 (mid)
-| Embodied VideoAgent for Two-Agent Pipeline    | 🟡 In Progress | code, scene and object datasets   | June 2025 (mid)      |
+| Component                       | Status         | Notes                                 |
+| ----------------------------------------------| ---------------| -------------------------------------|
+| Embodied VideoAgent for perception            | 🟡 In Progress | Cleanup and refactoring underway      |
+| Embodied VideoAgent for Two-Agent Pipeline    | 🟡 In Progress | code, scene and object datasets   |
 
