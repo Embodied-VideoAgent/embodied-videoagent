@@ -1,0 +1,4 @@
+REGION: "eastus2"
+MODEL: "gpt-4o-2024-08-06"
+API_KEY: "your_api_key"
+API_BASE: "your_api_base"

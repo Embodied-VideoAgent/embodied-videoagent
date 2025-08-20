@@ -1,0 +1,14 @@
+langchain==0.2.16
+langchainhub == 0.1.20
+openai==1.82.0
+langchain_openai==0.1.17
+pytorch_lightning==2.3.3
+timm==1.0.8
+opencv-python
+omegaconf
+pynput
+open3d
+torchmetrics
+ultralytics
+git+https://github.com/zhanghang1989/PyTorch-Encoding/
+git+https://github.com/openai/CLIP.git

@@ -1,0 +1,11 @@
+width: 512
+height: 512
+default_agent: 0
+allow_sliding: False
+seed: 1
+scene_dataset_config_file: null
+scene: null
+default_agent_navmesh: true
+navmesh_include_static_objects: true
+grab_and_release_distance: 2.0
+fps: 60
