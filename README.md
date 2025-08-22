@@ -72,11 +72,11 @@ to generate different object layouts in a scene. You can then change the episode
 ## Citation
 If you find our paper and code useful in your research, please consider giving a star ⭐ and citation 📝.
 ```
-@article{fan2024embodied,
+@inproceedings{fan2025embodied,
   title={Embodied videoagent: Persistent memory from egocentric videos and embodied sensors enables dynamic scene understanding},
   author={Fan, Yue and Ma, Xiaojian and Su, Rongpeng and Guo, Jun and Wu, Rujie and Chen, Xi and Li, Qing},
-  journal={arXiv preprint arXiv:2501.00358},
-  year={2024}
+  booktitle={International Conference on Computer Vision},
+  year={2025},
 }
 
 @inproceedings{fan2025videoagent,
